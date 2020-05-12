@@ -1,0 +1,15 @@
+<suite name = 'pruebasdemobank'>
+    <test name="registrarnuevousuario">
+        <classes>
+            <class name="test.demoTest">
+                <!-- <methods>
+                 <exclude name = "endsession"/>
+                  <include name = "inicioregistro"/>
+                  <include name = "registrando"/>
+              </methods>-->
+            </class>
+        <!-- <class name="prueba2.probando"></class> haceer comentarios -->
+        </classes>
+    </test>
+
+</suite>
